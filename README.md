@@ -17,7 +17,7 @@ The basics of how StreamrFS works:
 
 ## Usage (CLI)
 
-Install with: `npm install -g streamr-fs`
+Install with: `npm install -g streamrfs`
 
 ## Getting help
 
