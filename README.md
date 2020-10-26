@@ -1,5 +1,7 @@
 # StreamrFS
 
+**Warning: Insecure at the moment! To be secure, a version of the Streamr JS client that supports end-to-end encryption with automatic key exchange. This is coming soon. Only use for testing and prototyping at the moment.**
+
 An application-level extension on top of Streamr protocol to standardize file sharing in the Streamr ecosystem.
 
 This npm package includes a library and a CLI tool for interacting with resources that follow the StreamrFS specification.
